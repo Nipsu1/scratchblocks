@@ -235,6 +235,14 @@ export default {
     みどりのはたがクリックされたとき: "EVENT_WHENFLAGCLICKED",
   },
 
+    fi: {
+    // Finnish
+    "käänny vasemmalle %1 astetta": "MOTION_TURNLEFT",
+    "käänny oikealle %1 astetta": "MOTION_TURNRIGHT",
+    "kun klikataan vihreää lippua": "EVENT_WHENFLAGCLICKED",
+    loppu: "scratchblocks:end",
+  },
+
   // : { // template
   //   '': 'MOTION_TURNLEFT',
   //   '': 'MOTION_TURNRIGHT',
